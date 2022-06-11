@@ -61,21 +61,18 @@
 
 <p align="center">
     <a href="https://www.linkedin.com/in/laraib-khan-5926101a4/">
-      <img src="https://img.shields.io/badge/vebhv-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+      <img src="https://img.shields.io/badge/Rabs_-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="https://instagram.com/la_rabs_">
-      <img src="https://img.shields.io/badge/vabrish-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" />
+      <img src="https://img.shields.io/badge/La_rabs_-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" />
     </a>
     <a href="https://twitter.com/La_Rabs">
-      <img src="https://img.shields.io/badge/vebhv__-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+      <img src="https://img.shields.io/badge/La-Raib-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
     </a>
     <a href="https://www.facebook.com/mohdlaraibkhan.mlk/">
-      <img src="https://img.shields.io/badge/mrvabs-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white" />
+      <img src="https://img.shields.io/badge/Rabs-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white" />
     </a>
-   
-    <a href="mailto:visitlaraib@gmail.com">
-      <img src="https://img.shields.io/badge/visitlaraib@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
-    </a>
+  
 </p>
 <br />
   <p align="center">
