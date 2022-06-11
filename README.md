@@ -27,8 +27,8 @@
 <!-- badges -->
 ![Profile Badge](https://komarev.com/ghpvc/?username=codewithgulam)
 ![GitHub followers](https://img.shields.io/github/followers/codewithgulam?label=Follow&style=social)
-[![Years Badge](https://badges.pufler.dev/years/Mr-vabs)](https://badges.pufler.dev/years/codewithgulam)
-[![Repos Badge](https://badges.pufler.dev/repos/Mr-vabs)](https://badges.pufler.dev/repos/codewithgulam)
+[![Years Badge](https://badges.pufler.dev/years/codewithgulam)](https://badges.pufler.dev/years/codewithgulam)
+[![Repos Badge](https://badges.pufler.dev/repos/codewithgulam)](https://badges.pufler.dev/repos/codewithgulam)
 <p align="left"> <a href="https://twitter.com/La_Rabs" target="blank"><img src="https://img.shields.io/twitter/follow/La_Rabs?logo=twitter&style=for-the-badge" alt="La_Rabs" /></a> </p>
 <hr>
 <br><br>
