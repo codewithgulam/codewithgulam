@@ -3,11 +3,11 @@
 <!-- WAKING HAND WITH GOOD TO HAVE YOU TEXT-->
 
 ### Hi there 👋 <br />
-<h1>My name is Mohd Laraib</h1>
+<h1>My name is Laraib Khan (Rabs)</h1>
 <h2>Web Developer</h2>
 <h2 align=center>👋 Good to have you here!!</h2>
 
-I've been learning to code for more than a year now. I am currently focused on back-end development and frontend,I'll continue learning full-stack in the future!
+I've been learning to code for more than three years now. I am currently focused on back-end development and frontend,I'll continue learning full-stack in the future!
 I would love to accept internship, apprenticeship or entry-level front-end roles !
 
 🌱 **About myself**<br>
@@ -54,7 +54,10 @@ I would love to accept internship, apprenticeship or entry-level front-end roles
     <a href="https://github.com/codewithgulam/github-readme-stats">
       <img alt="codewithgulam's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithgulam&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>     </a>
       </div>
-      
+    
+    
+
+
  ## Contribution Streak
 <hr>
 
@@ -62,106 +65,21 @@ I would love to accept internship, apprenticeship or entry-level front-end roles
     <img alt="Laraib Khan's Github Streak Stats" src="http://github-readme-streak-stats.herokuapp.com/?user=codewithlaraib&theme=dark" />
     
 </p>
-<br><br>
+<br>
+
+ ### Holopin Badges:
+[![@rabs's Holopin board](https://holopin.me/rabs)](https://holopin.io/@rabs)
+
+<br>
 
 [![Laraib's github activity graph](https://activity-graph.herokuapp.com/graph?username=codewithgulam&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <hr>
 
 
-# 🔧 Front End Technologies
-
-<table>
-  <tr>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
-        width="48"
-        height="48"
-        alt="HTML"
-      />
-      <br /><strong>HTML5</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
-        width="48"
-        height="48"
-        alt="CSS3"
-      />
-      <br /><strong>CSS3</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
-        width="48"
-        height="48"
-        alt="JavaScript"
-      />
-      <br /><strong>JavaScript</strong>
-      </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-        width="48"
-        height="48"
-        alt="React"
-      />
-      <br /><strong>React.js</strong>
-      </td>
-  </tr>
-</table>
-
-# 🔧 Others
-<table>
-  <tr>
-   <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-        width="48"
-        height="48"
-        alt="Git"
-      />
-      <br /><strong>Git</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
-        width="48"
-        height="48"
-        alt="Npm"
-      />
-      <br /><strong>Npm</strong>
-    </td>
-     <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg"
-        width="48"
-        height="48"
-        alt="Trello"
-      />
-      <br /><strong>Trello</strong>
-    </td>
-      <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
-        width="48"
-        height="48"
-        alt="Bootstrap"
-      />
-      <br /><strong>Bootstrap</strong>
-    </td>
-  </tr>
-</table>
-
-<br />
-
-<img src="https://github-readme-stats.vercel.app/api/?username=ashm10&count_private=true&theme=tokyonight&showicons=true">
-<br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashm10&langs_count=5&theme=tokyonight">
 
 
-## Connect with me
+## Socials
 <hr>
 
 <p align="center">
@@ -180,7 +98,9 @@ I would love to accept internship, apprenticeship or entry-level front-end roles
   
 </p>
 <br />
- 
+ ### See my Skyline 
+
+- [Skyline](https://skyline.github.com/codewithgulam/2021)
 <hr>
 <br><br> 
 
