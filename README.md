@@ -7,7 +7,7 @@
 <h2>Web Developer</h2>
 <h2 align=center>👋 Good to have you here!!</h2>
 
-I've been learning to code for more than three years now. I am currently focused on back-end development and frontend,I'll continue learning full-stack in the future!
+I've been learning to code for more than three years now. I am currently focused on back-end development and also frontend,I'll continue learning full-stack in the future!
 I would love to accept internship, apprenticeship or entry-level front-end roles !
 
 🌱 **About myself**<br>
@@ -20,8 +20,8 @@ I would love to accept internship, apprenticeship or entry-level front-end roles
 - ✉️ For work opportunities, you can contact me at [hello@laraib.me](mailto:visitlaraib@gmail.com)
 - 😄 Call me: LaRaib / Rabs
 - 🍩 Fun fact: I love tea!
-- 👯 I'm interested in development and have contributed to some opensource projects. I alsp enjoy doing competitive programming.
-- ✔️ I have been the participant & winner of  open-source event such as HacktoberFest 2020 & 2021 and continuously participating every year.
+- 👯 I'm interested in development and have contributed to some open-source projects. I also enjoy doing competitive programming.
+- ✔️ I have been the participant & winner of open-source event such as HacktoberFest 2020 & 2021 and continuously participating every year.
   <hr>
   
   <br>
@@ -98,7 +98,7 @@ I would love to accept internship, apprenticeship or entry-level front-end roles
   
 </p>
 <br />
- ### See my Skyline 
+ ## See my Skyline 
 
 - [Skyline](https://skyline.github.com/codewithgulam/2021)
 <hr>
