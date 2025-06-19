@@ -13,7 +13,7 @@ I would love to accept internship, apprenticeship or entry-level front-end roles
 🌱 **About myself**<br>
 
 - 🌎 I'm based in Ayodhya, UP
-- 🖥️ See [My Portfolio](codewithgulam.github.io)
+- 🖥️ See [My Portfolio](https://codewithgulam.github.io)
 - 🌱 I’m currently learning backend development and have build some project using Python Django.
 - 💬 Ask me about a project collaboration.
 - ✉️ For work opportunities, you can contact me at [hello@laraib.me](mailto:visitlaraib@gmail.com)
