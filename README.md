@@ -3,8 +3,8 @@
 <!-- WAKING HAND WITH GOOD TO HAVE YOU TEXT-->
 
 ### Hi there 👋 <br />
-<h1>My name is Laraib Khan (Rabs)</h1>
-<h2>Web Developer</h2>
+<h1>My name is Mohd Laraib Khan (Rabs)</h1>
+<h2>Web Developer</h2><span> DevOps Engineer</span>
 <h2 align=center>👋 Good to have you here!!</h2>
 
 I've been learning to code for more than three years now. I am currently focused on back-end development and also frontend,I'll continue learning full-stack in the future!
@@ -13,9 +13,8 @@ I would love to accept internship, apprenticeship or entry-level front-end roles
 🌱 **About myself**<br>
 
 - 🌎 I'm based in Ayodhya, UP
-- 🖥️ See [My Portfolio](http://rabsportfolio.herokuapp.com/)
+- 🖥️ See [My Portfolio](codewithgulam.github.io)
 - 🌱 I’m currently learning backend development and have build some project using Python Django.
-- ☀️ I'm starting to learn internship or job to kickstart my career in IT industry.
 - 💬 Ask me about a project collaboration.
 - ✉️ For work opportunities, you can contact me at [hello@laraib.me](mailto:visitlaraib@gmail.com)
 - 😄 Call me: LaRaib / Rabs
